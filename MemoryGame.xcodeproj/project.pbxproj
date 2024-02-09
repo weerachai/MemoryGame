@@ -13,6 +13,7 @@
 		884F13BF2B6C991F000282EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 884F13BE2B6C991F000282EF /* Preview Assets.xcassets */; };
 		884F13C62B6CA355000282EF /* MemoryGameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F13C52B6CA355000282EF /* MemoryGameModel.swift */; };
 		884F13C82B6CA716000282EF /* EmojiViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F13C72B6CA716000282EF /* EmojiViewModel.swift */; };
+		889334C62B75D32300EEBC02 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889334C52B75D32300EEBC02 /* AspectVGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		884F13BE2B6C991F000282EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		884F13C52B6CA355000282EF /* MemoryGameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGameModel.swift; sourceTree = "<group>"; };
 		884F13C72B6CA716000282EF /* EmojiViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiViewModel.swift; sourceTree = "<group>"; };
+		889334C52B75D32300EEBC02 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				884F13B72B6C991D000282EF /* MemoryGameApp.swift */,
+				889334C52B75D32300EEBC02 /* AspectVGrid.swift */,
 				884F13B92B6C991D000282EF /* ContentView.swift */,
 				884F13BB2B6C991F000282EF /* Assets.xcassets */,
 				884F13BD2B6C991F000282EF /* Preview Content */,
@@ -145,6 +148,7 @@
 			files = (
 				884F13BA2B6C991D000282EF /* ContentView.swift in Sources */,
 				884F13B82B6C991D000282EF /* MemoryGameApp.swift in Sources */,
+				889334C62B75D32300EEBC02 /* AspectVGrid.swift in Sources */,
 				884F13C62B6CA355000282EF /* MemoryGameModel.swift in Sources */,
 				884F13C82B6CA716000282EF /* EmojiViewModel.swift in Sources */,
 			);
